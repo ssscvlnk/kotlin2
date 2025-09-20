@@ -1,3 +1,4 @@
 fun main() {
-    println("HELLO")
+    val number = 10
+    println(number)
 }
